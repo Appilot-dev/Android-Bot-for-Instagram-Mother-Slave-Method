@@ -14,3 +14,8 @@ Mobile Bot for Instagram Mother Slave Method  This repository is currently a
 6. **Simplified Onboarding:** The onboarding process for many existing tools is overly complex, with difficult installations and confusing documentation. I believe this is because the niche is still relatively new and research-based, with few people truly understanding it.  Given these challenges, I’ve decided to build my own bot from the ground up.
 
 I will be sharing the entire journey, including insights, challenges, and discussions on this thread on **[BlackHatWorld](https://www.blackhatworld.com/members/app_pilot.1954567/)** (BHW) and through this series on **[Medium](https://medium.com/@app-pilot)**, where I regularly post updates and release dates. If you’d like to contribute to this journey, feel free to engage on either platform. I’d love to have your support along the way.
+
+As a token of appreciation, everyone who interacts, offers advice, or joins me on this journey will receive free access to the tool once it’s fully developed
+
+
+If you’d like to reach out for project contributions, freelance work, or collaborate on a single platform, please join my **Discord Server** using this link, https://discord.gg/5b4Xu6Z8 or ping me on **telegram** direct from [here](https://t.me/zeeshanahmad4). Upon completion of the bot, I’ll be excited to upload a free trial version here on this GitHub repository for anyone interested in testing it out, Please give a Star to this repo.
