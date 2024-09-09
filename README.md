@@ -13,7 +13,7 @@ This repository is currently active, and development is ongoing
 5. **Cost-Effective Solutions:** Alternatives like app cloners are expensive and cumbersome, so I’m aiming for a more efficient approach.
 6. **Simplified Onboarding:** The onboarding process for many existing tools is overly complex, with difficult installations and confusing documentation. I believe this is because the niche is still relatively new and research-based, with few people truly understanding it.  Given these challenges, I’ve decided to build my own bot from the ground up.
 
-I will be sharing the entire journey, including insights, challenges, and discussions on this thread on **[BlackHatWorld](https://www.blackhatworld.com/members/app_pilot.1954567/)** (BHW) and through this series on **[Medium](https://medium.com/@app-pilot)**, where I regularly post updates and release dates. If you’d like to contribute to this journey, feel free to engage on either platform. I’d love to have your support along the way.
+I will be sharing the entire journey, including insights, challenges, and discussions on this thread on **[BlackHatWorld](https://www.blackhatworld.com/members/app_pilot.1954567/)** (BHW) and through this series on **[Medium](https://medium.com/@appilot/mother-slave-methodandroid-bot-for-instagrams-mother-slave-method-9a7546cc8277)**, where I regularly post updates and release dates. If you’d like to contribute to this journey, feel free to engage on either platform. I’d love to have your support along the way.
 
 As a token of appreciation, everyone who interacts, offers advice, or joins me on this journey will receive free access to the tool once it’s fully developed
 
